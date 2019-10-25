@@ -1,4 +1,10 @@
-# README
+# thpw4_rails_dogbnb
+
+This is the second exercise of THP week 4 project 2.
+
+
+## README
+
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
@@ -22,4 +28,3 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
-# thpw4_rails_dogbnb
